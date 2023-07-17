@@ -19,4 +19,4 @@ pip install -r requirements.txt  # install
 
 ### Datasets 
 
-We provide all datasets about residual pellets in aquaculture. The datasets can be download from: **https://1drv.ms/f/s!AvvmokbvtAL_gSaT-gGoYfAR2T2O?e=io9fxp**
+We provide all datasets about residual pellets in aquaculture. The datasets can be download from: **https://1drv.ms/f/s!AvvmokbvtAL_gSaT-gGoYfAR2T2O?e=io9fxp**.
